@@ -28,3 +28,7 @@ Problem: Given the current (x, y) coordinate position of a knight piece within a
 Palindromes are strings that are the same when written forward or in reverse.
 
 Problem: Determine if an input string is a palindrome.
+
+<b>ReverseString.java</b>
+
+Problem: Given a method of reversal (standard or inplace) and a string, reverse the string using that method. Standard reversal refers to storing the reversed string as a new string and returning it while in-place reversal refers to reversing the string without storing it into a new variable.
